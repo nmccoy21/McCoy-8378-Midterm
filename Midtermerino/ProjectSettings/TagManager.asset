@@ -8,6 +8,7 @@ TagManager:
   - purple
   - black
   - enemy
+  - vis
   layers:
   - Default
   - TransparentFX
