@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: ammoUI
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"4a037c44-204c-447d-a968-e78c7f91d906","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"3deaa617-8c84-4e0a-a2c2-4033f50a432e","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-22.43352,"y":43.97368},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-302.0,"y":-34.0},"guid":"cb3acdf6-17c6-4456-aa92-023384d4ee55","$version":"A","$type":"Unity.VisualScripting.GraphInput"}],"$version":"A"}}'
     _objectReferences: []
